@@ -80,7 +80,7 @@
 1. What is `process`, `thread`? What are the differents between them?
     - What data `process`, `thread` need to live? Why they said that `Thread is a lightweight process`?
     - How CPU switch (context switch) between `processes`/threads`? How data is to ensure safety? (in case single CPU core and multiple CPU cores)
-    - What is `multi-process` and `multi-thread`? When we should you which one?
+    - What is `multi-process` Ta and `multi-thread`? When we should you which one?
         + Process has how many states? How does it change between each state?
         + Scheduling algorithm.
         + What will happen if a process is `waiting`? Or a thread is `sleeping`?
@@ -139,6 +139,11 @@
     - How to migrate `Cache stampede`?
     - Quicksort(O(n^2) in worst case) vs Merge sort (O(nlogn) in worst case). Which is faster? Why? How they use these 2 sorting algorithms in real life?
 
+7. Why 1MB = 1024 KB?
+	- What is smallest unit Windows can recognize? Byte
+	- Why not decimal but binary?
+	- What difference between 32-bit OS and 64-bit OS?
+	
 - Good resources:
     * [Overview of OS syntax, try do dive deeper to each concept](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
 
