@@ -140,10 +140,11 @@
     - Quicksort(O(n^2) in worst case) vs Merge sort (O(nlogn) in worst case). Which is faster? Why? How they use these 2 sorting algorithms in real life?
 
 7. Why 1MB = 1024 KB?
-	- What is smallest unit Windows can recognize? Byte
+	- What is smallest unit Windows use? Byte
 	- Why not decimal but binary?
 	- What difference between 32-bit OS and 64-bit OS?
-	
+	- Why 1kbit = 1000 bits but 1KB = 1024 bytes?
+    
 - Good resources:
     * [Overview of OS syntax, try do dive deeper to each concept](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
 
