@@ -3,7 +3,7 @@
 - Memory Analysis(#memory-analysis)
 - Timeline Analysis (#timeline-analysis)
 - Windows Artifacts (#windows_artifacts)
-- Incident Response (incident_response)
+- Incident Response (#incident_response)
 
 ## Memory Analysis
 1. When to use memory analysis?
@@ -26,7 +26,7 @@
 6. How timestamp will be change when change timezone in FAT?
 	- And in NTFS?
 
-##Windows Artifacts
+## Windows Artifacts
 1. What is registries?
 	- What in NTUSER.dat differ from other config/hives
 2. Are there quickwin artifacts?
